@@ -62,6 +62,5 @@ The system provides:
 - Deep learning ensemble models
 - Real-time detection for social platforms
 
-## Author
-Department of Artificial Intelligence and Data Science  
-Yeshwantrao Chavan College of Engineering
+SAMPLE OUTPUT:
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/caa6964d-3e04-4617-9de2-bf5fddbce4a0" />

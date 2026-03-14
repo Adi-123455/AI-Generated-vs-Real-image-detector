@@ -64,3 +64,4 @@ The system provides:
 
 SAMPLE OUTPUT:
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/caa6964d-3e04-4617-9de2-bf5fddbce4a0" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/585fb7e1-9b76-4745-b073-8bb43f8d800d" />
